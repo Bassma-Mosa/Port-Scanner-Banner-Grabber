@@ -53,19 +53,6 @@ No external dependencies — uses Python standard library only.
 
 ---
 
-## 📁 Project Structure
-
-```
-port-scanner/
-├── scanner/
-│   ├── __init__.py
-│   ├── port_scanner.py   ← Core scanner with threading
-│   └── banner_grabber.py ← Banner grabbing logic
-├── main.py               ← CLI entry point
-└── README.md
-```
-
----
 
 ## 🖥️ Example Output
 
