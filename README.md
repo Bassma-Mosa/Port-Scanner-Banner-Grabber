@@ -44,7 +44,7 @@ python main.py scanme.nmap.org -v
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Bassma-Mosa/Port-Scanner-Banner-Grabber.git
+git clone https://github.com/yourusername/port-scanner.git
 cd port-scanner
 python main.py --help
 ```
@@ -85,3 +85,9 @@ port-scanner/
 ✅ Scan complete in 3.12s
 🟢 Open ports: 2 / 20
 ```
+
+---
+
+## 📄 License
+
+MIT License — free to use and modify.
